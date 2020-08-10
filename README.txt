@@ -1,5 +1,1 @@
-SpringBoot integration WeChat Pay of H5
-
-if any question please connect me 
-
-
+Springboot-H5Server, 集成H5与静态资源static,js,css;实例
